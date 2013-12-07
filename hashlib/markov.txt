@@ -1,0 +1,133 @@
+
+3026 words captured, 963 unique, 7933 probes, 3437 misses
+2276 unique prefixes captured, 12305 probes, 6056 misses
+       0 suffix chains are 0 long
+    1927 suffix chains are 1 long
+     210 suffix chains are 2 long
+      72 suffix chains are 3 long
+      21 suffix chains are 4 long
+      13 suffix chains are 5 long
+       9 suffix chains are 6 long
+       8 suffix chains are 7 long
+       3 suffix chains are 8 long
+      13 suffix chains are 9 or more long
+Maximum chain length is 28 with prefix "the Program "
+
+GNU GENERAL PUBLIC LICENSE TERMS AND CONDITIONS 
+
+How to Apply These Terms to Your New Programs 
+
+If any portion of this section to induce you to infringe any patents or 
+by copyrighted interfaces, the original licensor to copy, distribute 
+and/or modify it under certain conditions; type `show w'. This is free 
+for all its terms and conditions either of that work are not covered by 
+this License; they are outside its scope. The act of running the 
+Program). Whether that is normally distributed (in either source or 
+binary form) with the library. If this is to exercise the right to 
+control the distribution of the Program. 
+
+In addition, mere aggregation of another work not based on the Program 
+or any derivative work under the terms of Sections 1 and 2 above on a 
+medium customarily used for software interchange; or, 
+
+c) If the Program is void, and will automatically terminate your rights 
+with two steps: (1) copyright the software, and you may consider it 
+more useful to permit linking proprietary applications with the 
+library. If this is what you want to make certain that everyone 
+understands that there is no warranty (or else, saying that you know 
+you can do these things. 
+
+To do so, and all its users. This General Public License instead.) You 
+can apply it to be of the Program's source code for a charge no more 
+than your cost of physically performing source distribution, a complete 
+machine-readable copy of this section is intended to apply in other 
+circumstances. 
+
+It is safest to attach them to the Free Software Foundation, Inc., 59 
+Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is 
+permitted only in or among countries not thus excluded. In such case, 
+this License to do so, and all its users. This General Public License 
+is intended to apply and the date of any warranty; and each file should 
+have at least three years, to give the program's name and a notice 
+placed by the Free Software Foundation, Inc., 59 Temple Place, Suite 
+330, Boston, MA 02111-1307 USA 
+
+Also add information on how to contact you by electronic and paper 
+mail. 
+
+If distribution of executable or object code or executable form under 
+the terms of Sections 1 and 2 above on a medium customarily used for 
+software interchange; or, 
+
+c) Accompany it with the library. If this is what you want it, that you 
+can do these things. 
+
+To protect your rights, we need to make thoroughly clear what is 
+believed to be a consequence of a court judgment or allegation of 
+patent infringement or for any other system and a "work based on the 
+Program (or any work that you also do one of the GNU Library General 
+Public Licenses are designed to take away your freedom to share and 
+change under these conditions, and telling the user how to view a copy 
+of the Program's source code for a fee, you must show them these terms 
+and conditions for copying, distributing or modifying the Program is 
+restricted in certain countries either by patents or by copyrighted 
+interfaces, the original authors' reputations. 
+
+Finally, any free program is distributed in the program is a subroutine 
+library, you may not copy, modify, sublicense, or distribute the 
+Program is restricted in certain countries either by patents or by 
+copyrighted interfaces, the original licensor to copy, distribute 
+and/or modify it under the terms of this License incorporates the 
+limitation as if written in the hope that it will be guided by the Free 
+Software Foundation. If the software is covered by this License; they 
+are outside its scope. The act of transferring a copy, and you may 
+choose any version ever published by the Free Software Foundation; 
+either version 2 of the executable. 
+
+If any portion of this section has the sole purpose of protecting the 
+integrity of the work for making modifications to it. For an executable 
+work, complete source code for all its users. This General Public 
+License as published by the Free Software Foundation, write to the 
+absence of any such claims; this section to claim rights or contest 
+your rights to work written entirely by you; rather, the intent of this 
+License. Therefore, by modifying or distributing the Program is not 
+allowed. 
+
+Preamble 
+
+The hypothetical commands `show w' and `show c'; they could even be 
+mouse-clicks or menu items--whatever suits your program. 
+
+You may not distribute the Program under this License which applies to 
+it and this License along with this program; if not, write to the Free 
+Software Foundation; either version 2 of the operating system on which 
+the executable runs, unless that component itself accompanies the 
+executable. 
+
+If the distribution of the License, or (at your option) any later 
+version published by the Free Software Foundation, Inc., 59 Temple 
+Place, Suite 330, Boston, MA 02111-1307 USA 
+
+Also add information on how to contact you by electronic and paper 
+mail. 
+
+If the software is free software; you can do these things. 
+
+To protect your rights, we need to make restrictions that forbid anyone 
+to deny you these rights or to ask for permission. For software which 
+everyone can redistribute and change free software--to make sure that 
+you receive it, in any medium, provided that you changed the files and 
+the output from the Program, the distribution and/or use of the rest of 
+this license document, but changing it is not the intent is to make 
+thoroughly clear what is believed to be distributed under the terms of 
+Sections 1 and 2 above on a volume of a free program is threatened 
+constantly by software patents. We wish to incorporate parts of the 
+Program is not restricted, and the date of any change. 
+
+b) Accompany it with a written offer, valid for at least three years, 
+to give the program's name and a pointer to where the full notice is 
+found. 
+
+<one line 
+
+1000 words output, 2276 unique prefixes, 13807 probes, 6558 misses

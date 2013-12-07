@@ -1,0 +1,16 @@
+=
++
+variable a
+variable b
++
+*
+variable c
+variable d
+*
+constant 3.14
+pow
+sin
+/
+variable e
+variable f
+integer_constant 2

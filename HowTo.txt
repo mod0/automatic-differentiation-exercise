@@ -1,0 +1,32 @@
+Differentiation Exercise
+------------------------
+
+Steps to compile:
+
+* Compile the hashlib library by issuing `make' within its directory
+mahesh@mahesh-desktop:~/GSOC/hashlib$ make
+
+* Compile main.c , DE.c and link with hashlib.o generated in the previous step
+mahesh@mahesh-desktop:~/GSOC$ gcc -g -c -O0 main.c -pg
+mahesh@mahesh-desktop:~/GSOC$ gcc -g -c -O0 DE.c -pg
+mahesh@mahesh-desktop:~/GSOC$ gcc main.o DE.o hashlib/hashlib.o -o a.out -lm -pg
+
+
+* At the root folder, run 
+mahesh@mahesh-desktop:~/GSOC$ ./a.out eqn.txt vars.txt
+
+Note: Don't forget to link with math library using the -lm option
+
+You could optionally choose to remove flags for generating debug symbols and for generating output file for gprof from each of the compilation steps.
+
+
+
+
+
+
+
+
+
+
+
+

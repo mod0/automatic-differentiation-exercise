@@ -1,0 +1,32 @@
+HASHLIB test05
+
+New table, inserting 10000 values range 0..3999
+Status: Entries=3668, Deleted=0, Probes=32362, Misses=15594
+
+Walking returned 0
+       0 items were inserted 0 times
+     861 items were inserted 1 times
+    1015 items were inserted 2 times
+     783 items were inserted 3 times
+     552 items were inserted 4 times
+     281 items were inserted 5 times
+     117 items were inserted 6 times
+      32 items were inserted 7 times
+      22 items were inserted 8 times
+       5 items were inserted 9 or more times
+This table has to be killed for new hash function
+
+New table, inserting same values
+Status: Entries=3668, Deleted=0, Probes=21192, Misses=4424
+
+Walking returned 0
+       0 items were inserted 0 times
+     861 items were inserted 1 times
+    1015 items were inserted 2 times
+     783 items were inserted 3 times
+     552 items were inserted 4 times
+     281 items were inserted 5 times
+     117 items were inserted 6 times
+      32 items were inserted 7 times
+      22 items were inserted 8 times
+       5 items were inserted 9 or more times

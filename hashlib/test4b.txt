@@ -1,0 +1,17 @@
+HASHLIB test04
+
+New table, inserting 400001 values
+Status: Entries=399980, Deleted=0, Probes=1861513, Misses=1003406
+
+Walking returned 0
+       0 items were inserted 0 times
+  399959 items were inserted 1 times
+      21 items were inserted 2 times
+       0 items were inserted 3 times
+       0 items were inserted 4 times
+       0 items were inserted 5 times
+       0 items were inserted 6 times
+       0 items were inserted 7 times
+       0 items were inserted 8 times
+       0 items were inserted 9 or more times
+Suppressing hshkill()

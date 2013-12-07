@@ -1,0 +1,29 @@
+#! /bin/sh
+
+dotest ( ) {
+   echo test number $1 $3 against test$2
+   lasttest=$1
+   ./hashtest $1 $3 > junk && diff -q --strip-trailing-cr junk test$2.txt
+}
+
+make build
+lasttest=0
+echo testcount value is $testcount
+if dotest 1 1 &&
+   dotest 2 2 &&
+   dotest 3 3 &&
+   dotest 4 4 &&
+   dotest 4 4a 100001 &&
+   dotest 4 4b 400001 &&
+   dotest 5 5 &&
+   dotest 6 6 &&
+   dotest 7 7 &&
+   echo Markov test &&
+   lasttest=Markov &&
+   ./markov gpl.txt > junk && diff -q --strip-trailing-cr junk markov.txt
+then echo Done. All tests successful
+     rm junk
+     exit 0
+else echo failed at test $lasttest
+     exit 1
+fi

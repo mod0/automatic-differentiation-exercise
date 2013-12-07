@@ -1,0 +1,29 @@
+HASHLIB test01
+
+New table, inserting
+Found: 2191955339 ct = 2
+Not found:  268830360 ct = 0
+
+Walking
+ 152112058 ct = 1, i = 2
+3510405877 ct = 2, i = 6
+2191955339 ct = 2, i = 8
+4262624192 ct = 1, i = 9
+ 564929546 ct = 1, i = 13
+4290933890 ct = 2, i = 15
+2687398418 ct = 1, i = 16
+returned 0
+
+New table, inserting
+Found: 4212814465 ct = 2
+Not found: 1452005258 ct = 0
+
+Walking
+1908844540 ct = 1, i = 1
+ 578848526 ct = 2, i = 5
+3596577449 ct = 1, i = 6
+ 950422373 ct = 1, i = 7
+1763988213 ct = 2, i = 9
+4212814465 ct = 2, i = 10
+4146913070 ct = 1, i = 16
+returned 0

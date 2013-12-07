@@ -1,0 +1,16 @@
+HASHLIB test04
+
+New table, inserting 10000 values
+Status: Entries=10000, Deleted=0, Probes=48310, Misses=24413
+
+Walking returned 0
+       0 items were inserted 0 times
+   10000 items were inserted 1 times
+       0 items were inserted 2 times
+       0 items were inserted 3 times
+       0 items were inserted 4 times
+       0 items were inserted 5 times
+       0 items were inserted 6 times
+       0 items were inserted 7 times
+       0 items were inserted 8 times
+       0 items were inserted 9 or more times

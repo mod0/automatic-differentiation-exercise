@@ -1,0 +1,31 @@
+HASHLIB test06
+
+New table, inserting 10000 values range 0..3999
+Status: Entries=3668, Deleted=0, Probes=32362, Misses=15594
+
+Walking returned 0
+       0 items were inserted 0 times
+     861 items were inserted 1 times
+    1015 items were inserted 2 times
+     783 items were inserted 3 times
+     552 items were inserted 4 times
+     281 items were inserted 5 times
+     117 items were inserted 6 times
+      32 items were inserted 7 times
+      22 items were inserted 8 times
+       5 items were inserted 9 or more times
+
+Finding 10000 values in range 0..7999
+Status: Entries=3668, Deleted=0, Probes=48521, Misses=21753
+
+Walking returned 0
+    1073 items were found 0 times
+    1244 items were found 1 times
+     875 items were found 2 times
+     354 items were found 3 times
+      88 items were found 4 times
+      24 items were found 5 times
+       8 items were found 6 times
+       2 items were found 7 times
+       0 items were found 8 times
+       0 items were found 9 or more times

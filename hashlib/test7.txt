@@ -1,0 +1,70 @@
+HASHLIB test07
+
+New table, inserting
+
+Walking
+4146913070 ct = 1, i = 1
+ 152112058 ct = 1, i = 2
+1908844540 ct = 1, i = 3
+ 578848526 ct = 1, i = 5
+3510405877 ct = 2, i = 6
+ 950422373 ct = 1, i = 7
+2191955339 ct = 2, i = 8
+4262624192 ct = 1, i = 9
+ 268830360 ct = 1, i = 10
+1763988213 ct = 1, i = 11
+4212814465 ct = 1, i = 12
+ 564929546 ct = 1, i = 13
+3596577449 ct = 1, i = 14
+4290933890 ct = 2, i = 15
+2687398418 ct = 1, i = 16
+returned 0
+Status: Entries=15, Deleted=0, Probes=32, Misses=14
+Deleted: 2191955339 ct = 2
+Not found, not deleted: 1452005258 ct = 0
+
+Walking
+4146913070 ct = 1, i = 1
+ 152112058 ct = 1, i = 2
+1908844540 ct = 1, i = 3
+ 578848526 ct = 1, i = 5
+3510405877 ct = 2, i = 6
+ 950422373 ct = 1, i = 7
+4262624192 ct = 1, i = 9
+ 268830360 ct = 1, i = 10
+1763988213 ct = 1, i = 11
+4212814465 ct = 1, i = 12
+ 564929546 ct = 1, i = 13
+3596577449 ct = 1, i = 14
+4290933890 ct = 2, i = 15
+2687398418 ct = 1, i = 16
+returned 0
+Status: Entries=15, Deleted=1, Probes=35, Misses=15
+Not found, not deleted: 2191955339 ct = 0
+
+Walking
+4146913070 ct = 1, i = 1
+1908844540 ct = 1, i = 3
+ 578848526 ct = 1, i = 5
+ 950422373 ct = 1, i = 7
+ 268830360 ct = 1, i = 10
+1763988213 ct = 1, i = 11
+4212814465 ct = 1, i = 12
+3596577449 ct = 1, i = 14
+2687398418 ct = 1, i = 16
+returned 0
+Status: Entries=15, Deleted=6, Probes=55, Misses=29
+
+Walking
+1452005258 ct = 1, i = 0
+1908844540 ct = 1, i = 1
+ 578848526 ct = 1, i = 5
+3596577449 ct = 1, i = 6
+ 950422373 ct = 1, i = 7
+1763988213 ct = 1, i = 9
+ 268830360 ct = 1, i = 10
+4212814465 ct = 1, i = 11
+2687398418 ct = 1, i = 15
+4146913070 ct = 1, i = 16
+returned 0
+Status: Entries=10, Deleted=0, Probes=67, Misses=31

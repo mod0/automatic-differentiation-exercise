@@ -1,3 +1,6 @@
+Please pardon any inaccuracies, it was written a long long time ago (about ~5 years)
+
+
 SCALABILTY TO NEW FUNCTIONS
 ----------------------------
 

@@ -54,7 +54,7 @@ The function evaluation and the 1st derivatives and the gprof output are
 shown below for the input function given on the wiki website with the 
 1st set of variable values as operating point.
 
-mahesh@mahesh-desktop:~/Desktop/GSOC$ ./a.out eqn.txt vars.txt 
+user@user-desktop:~/Desktop/GSOC$ ./a.out eqn.txt vars.txt 
 
 Function Value: -10.044704
 1st Derivative of F wrt f = 4.169356
@@ -64,7 +64,7 @@ Function Value: -10.044704
 1st Derivative of F wrt d = -1.100000
 1st Derivative of F wrt e = -0.924207
 
-mahesh@mahesh-desktop:~/Desktop/GSOC$ gprof
+user@user-desktop:~/Desktop/GSOC$ gprof
 Flat profile:
 
 Each sample counts as 0.01 seconds.
